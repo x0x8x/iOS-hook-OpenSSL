@@ -1,0 +1,9 @@
+Package: com.alband.ioshookopenssl
+Name: iOS-hook-OpenSSL
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Alban Diquet
+Author: Alban Diquet
+Section: Tweaks
